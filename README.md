@@ -1,2 +1,3 @@
-# Hello-G-kku-a-m
+# Hello-Gokkuşağı
+
 Gökkuşağımız renklenecek
